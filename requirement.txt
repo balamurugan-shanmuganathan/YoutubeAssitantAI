@@ -2,6 +2,6 @@ langchain_google_genai
 langchain
 youtube-transcript-api
 langchain-community
-chromadb
+faiss-cpu
 sentence-transformers
 streamlit
