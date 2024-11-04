@@ -1,0 +1,7 @@
+langchain_google_genai
+langchain
+youtube-transcript-api
+langchain-community
+chromadb
+sentence-transformers
+streamlit
